@@ -1,0 +1,23 @@
+[FONT=Tahoma]The Tickets system is a way to ask for help from staff if they aren't readily available on the server or discord. You create a ticket, and when staff are available, they will see the ticket and respond with a solution.
+
+[H="how"]How do I create a ticket?[/H]
+
+To create a ticket, execute the following command: /ticket <what you need help with>
+[SPOILER="command usage"][IMG]http://i.imgur.com/xWkoUPX.png[/IMG][/SPOILER]
+
+If your ticket is successfully created, the following message should appear in chat:
+[SPOILER][IMG]http://i.imgur.com/R4JaB7a.png[/IMG][/SPOILER]
+
+[H="commands"]Commands to know[/H]
+
+[B]/replyticket <id> <msg>[/B] : This is used to reply to your ticket, either to give more information about the problem or to ask another related question. Note, if you have another problem not related to the current ticket, you should make a new ticket.
+[SPOILER][img]http://i.imgur.com/yvAIMW2.png[/img][/SPOILER]
+
+[B]/checkticket <id> [/B]: This is used to check on your ticket and view all the details it offers, such as replies to the ticket, if staff has claimed the ticket, when it was created, etc.[/FONT]
+[SPOILER][FONT=Tahoma][img]http://i.imgur.com/lRoB8cL.png[/img]
+
+Below is what gets output from the command:
+[img]http://i.imgur.com/ZPo3zDX.png[/img][/FONT][/SPOILER]
+
+[FONT=Tahoma][SIZE=4][B]/closeticket <id> <msg> [/B]: If you find your own solution to your ticket, you may cl[/SIZE]
+[/FONT]
