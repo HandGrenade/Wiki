@@ -1,0 +1,65 @@
+[FONT=Tahoma]Toasty Networks has a claim-based protection system, where if you wish to protect land from other players, you must claim the land. This is an important aspect of the server, as land which is not claimed, and gets griefed/stolen from will not be rollback or investigated by staff. Thus, knowing how to claim land is very important.
+
+[H="how to claim"][B][COLOR=#ff8000]How do you create a claim?[/COLOR][/B][/H]
+
+Say you have a house you want to claim, something like this:
+
+[SPOILER][IMG]http://i.imgur.com/kXZopTh.png[/IMG][/SPOILER]
+
+To claim it, follow these steps:
+
+1) Execute the command "/kit claim". This will give you 3 items: a gold shovel, a stick and a chest. The gold shovel is used to claim the land, the stick is used to show details and boundaries of a claim, and a chest retains its normal function of holding items.
+
+[SPOILER][IMG]http://i.imgur.com/ukj56Je.png[/IMG][/SPOILER]
+
+2) Claimed land protection goes from bedrock to sky limit, so to claim land, all you need to do is make a square selection of the land you wish to protect. To create this selection, get your golden shovel, and right click one corner of the land you wish to claim. A diamond block should appear where you have right clicked:
+
+[SPOILER][IMG]http://i.imgur.com/0YXa5eC.png[/IMG][/SPOILER]
+
+3) Now, go to the opposite corner of the land you wish to claim, and right click it with the golden shovel. The land should now be claimed! The block you right clicked should look like this:
+
+[SPOILER][IMG]http://i.imgur.com/u7ZNChG.png[/IMG][/SPOILER]
+
+4) Now, use the stick and right click inside your claim. The area claimed will be made visible via gold blocks:
+
+[SPOILER][IMG]http://i.imgur.com/Ey9CCJz.png[/IMG][/SPOILER]
+
+[B]NOTE:[/B] The amount of land you can claim is restricted by the amount of claim blocks you have. To see how many claim blocks you have, hold the golden shovel. The amount should appear in chat.
+
+[SPOILER][IMG]http://i.imgur.com/m9lrmSD.png[/IMG][/SPOILER]
+
+More claim blocks can be gained from playtime (you gain 100 claim blocks for every hour you play), as a reward from crates, by donating, or by buying them with in-game money (/buyclaimblocks).
+
+[H="trust"][B][COLOR=#ff8000]How do I allow people to build in my claim?[/COLOR][/B][/H] 
+
+Allowing people to build in your claim can be done via /trust <playername>. 
+If you wish to remove people from accessing your claim, this can be done via /untrust <playername>. 
+To give people permission to trust other people to your claim, do /permissiontrust <playername>. 
+
+[SPOILER][IMG]http://i.imgur.com/fLbbp43.png[/IMG]
+[IMG]http://i.imgur.com/iYxz3JR.png[/IMG]
+[/SPOILER]
+
+[H="claim owner"][B][COLOR=#ff8000]How can I check who owns a claim?[/COLOR][/B][/H]
+
+You are able to check who owns a claim by using a stick (This is given to you when you do /kit claim).
+To find out who owns it, all you need to do is click on the area you want to find out about. This should then provide a list of details such as who owns the claim, how big the claim is, when the land was claimed and when the owner has last logged onto the server. 
+[SPOILER]
+[IMG]https://puu.sh/s0sC6/3872772860.png[/IMG]
+[/SPOILER]
+
+If the land is unclaimed, it will come up with another message saying that the land is unclaimed. This means you are able to claim this land.
+[SPOILER]
+[IMG]https://puu.sh/s0sJQ/d0060d7fb1.png[/IMG]
+[/SPOILER]
+
+[H="abandon"][COLOR=#ff8000][B]How do I abandon my claim?[/B][/COLOR][/H] 
+
+To unprotect a claim, or abandon it, do /abandonclaim. 
+To abandon all the claims you own, do /abandonallclaims.
+
+To know if you successfully abandoned a claim, check for this message in chat once you abandon it:
+
+[SPOILER][IMG]http://i.imgur.com/U4bFrsD.png[/IMG][/SPOILER][/FONT]
+[FONT=Trebuchet MS]
+[/FONT]
