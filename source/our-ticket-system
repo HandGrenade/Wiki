@@ -1,0 +1,30 @@
+[FONT=Arial]Here at Toasty Networks we are always looking to improve and enhance the way we provide support to our players. This guide is aimed to help give players a better understanding of how our in-game ticket system handles tickets, the commands of the plugin, and how to use them properly. We believe that this will make dealing with issues, questions, queries or anything else much easier, thus providing you with support in a faster and improved manner.[/FONT]
+
+
+[FONT=Trebuchet MS][SIZE=7][B]Ticket Process.[/B][/SIZE][/FONT]
+[FONT=Arial]The ticket system starts when a player submits a new ticket regarding a possible issue, question or query they might have. Once it is submitted, it is available for all staff members to see, teleport to, comment on, claim or close. A staff member will act accordingly to the ticket and either investigate what you said, ask questions, or close the ticket with the solution.
+
+If your ticket isn’t closed, it obviously means it just hasn’t been seen or is still under investigation. You should regularly check the status of your tickets and the comments to make sure that you are supplying sufficient information for staff and answering any questions they have about the ticket.
+
+Once the ticket has been investigated and the issue has been resolved a staff member, most likely the one who dealt with it, will close the ticket and usually leave a message along with it. Make sure to check your closed tickets for any information that staff have given you after they close the ticket.
+
+If you feel the given solution was insufficient, you can easily create a new ticket and reference your old ticket number or contact a staff member.[/FONT]
+
+
+[FONT=Trebuchet MS][SIZE=7][B]Commands.[/B][/SIZE][/FONT]
+[FONT=Arial][COLOR=#ff0000][B]/ticket <message>[/B][/COLOR]
+This command is what the whole plugin is based around. Players use this command and provide a short, but detailed message which clearly indicates what their issue/question is. If your issue is too long to fit into the command line, please use the reply command to provide more information. Your exact location will also be recorded on the ticket when using this command, so be sure to stand where the issue is occurring if possible. 
+
+[COLOR=#ff0000][B]/tickets[/B][/COLOR]
+This command can be used to track which of your tickets are currently open or closed, and the specific number of your ticket.
+
+[COLOR=#ff0000][B]/checkticket <id>[/B][/COLOR]
+You can check more specific details of your ticket, such as comments, teleports and other information by using this command. The id of your ticket can be found using the /status command.
+
+[COLOR=#ff0000][B]/replyticket <id> <message>[/B][/COLOR]
+Just like staff members, players can also comment on their own ticket. By doing this, you can give us far more information then the short space given in the /ticket command. This command should also be used to reply to any questions/queries which a staff member might have about your ticket.
+
+For a quick reference of these commands, you can use the [B][COLOR=#ff0000]/ticket help[/COLOR][/B] command.
+
+Remember to constantly check the status of all open tickets, and provide sufficient information for staff members to be able to handle your issue or question.
+[/FONT]
