@@ -1,13 +1,16 @@
-# Wiki
+# Styling
 
-## Styling
+### Headings:
+Font: Trebuchet MS (Bold)
+Size: 7
+Colour: Black
 
-Main Header:
-font/size/colour
+### Main text:
+Font: Arial
+Size: 4
+Colour: Black
 
-main text:
-font/size/colour
-
-links:
-colour/underline/italics
-
+### Commands:
+Font: Arial (Bold)
+Size: 4
+Colour: Red
