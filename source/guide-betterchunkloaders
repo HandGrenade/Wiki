@@ -1,0 +1,31 @@
+[FONT=Arial]BetterChunkLoaders (Developed by KaiNoMood) is a plugin which adds its own customisable chunk loaders that replaces other chunk loaders found in mods across our network. The plugin has a wide range of commands and features allowing for ease of use across our player base.
+[/FONT]
+[FONT=Trebuchet MS][SIZE=7][B]Types Of Chunk Loaders.[/B][/SIZE][/FONT]
+[FONT=Arial]This plugin allows for two kinds of chunk loaders to be used. They are as follows:[/FONT]
+[LIST]
+[*][FONT=Arial][B][COLOR=#ff0000]Online Only[/COLOR] [/B]- This will only load chunks while the owner of the chunk loader is online. [B](Represented as an Iron Block)[/B][/FONT]
+[*][FONT=Arial][B][COLOR=#ff0000]Always Online[/COLOR] [/B]- This will load chunks at all times, regardless of whether the owner is online. [B](Represented as a Diamond Block)[/B][/FONT]
+[/LIST]
+[FONT=Arial]All players start off with 6 [I]Online Only[/I] chunk loaders at their disposal. However, you must purchase [I]Always Online[/I] chunk loaders or obtain them with the [I]Lazarus[/I] rank. In order to use the [I]Always Online[/I] chunk loaders you must also have the permission for it. This can be bought with the chunk loaders or with the [I]Lazarus[/I] rank.[/FONT]
+
+
+[FONT=Trebuchet MS][SIZE=7][B]Setup of Chunk Loaders.[/B][/SIZE][/FONT]
+[LIST=1]
+[*][FONT=Arial]Place down the block which represents which type of chunk loader you want to use [B](Online Only = Iron Block; Always Online = Diamond Block)[/B]. Keep in mind, the [I]Always Online[/I] chunk loader requires a specific permission to be used.
+[/FONT]
+[*][FONT=Arial]With a Blaze Rod in your hand, right click on the Iron/Diamond Block to bring up the BetterChunkLoader GUI. This must be done almost immediately after placing down the block, otherwise you will need to break and replace the block.
+[/FONT]
+[*][FONT=Arial]Select the dimensions for your chunk loader (See below for dimensions information). This is done by clicking one of the icons in the menu. If completed correctly, you should receive a message saying that your chunk loader has been created.[/FONT]
+[/LIST]
+
+[FONT=Trebuchet MS][SIZE=7][B]Misc Information.[/B][/SIZE][/FONT]
+[FONT=Arial]Chunk loaders in this plugin can be edited to have different dimensions. There are 5 dimensions available for chunk loaders currently:[/FONT]
+[INDENT][FONT=Arial]- [B]1x1[/B] (1 chunk)
+- [B]3x3 [/B](9 chunks)
+- [B]5x5 [/B](25 chunks)
+- [B]7x7[/B] (49 chunks)
+- [B]9x9[/B] (81 chunks)[/FONT][/INDENT]
+[FONT=Arial]
+Each donator rank is given a certain about of [I]Online Only [/I]and/or [I]Always Online[/I] chunk loaders as part of their package. Players can also buy chunk loaders as a separate item from the donation store. Below is a table showing the amount of chunk loaders each donator rank receives.
+[/FONT]
+[CENTER][FONT=Arial][IMG]http://i.imgur.com/yi3vPkZ.png[/IMG][/FONT][/CENTER]
