@@ -1,0 +1,59 @@
+[FONT=Arial]Here at ToastyNetworks, we offer a large variety of features and custom plugins to make your gaming experience more enjoyable. As a result of this, there are a number of commands you can use to take advantage of these amazing features.
+[/FONT]
+[B][FONT=Trebuchet MS][SIZE=7][COLOR=#000000]Server Information.[/COLOR][/SIZE][/FONT][/B]
+[FONT=Arial][B][COLOR=#ff0000]/rules[/COLOR][/B] - This will provide you with all the rules needed to play on the server.
+[B][COLOR=#ff0000]/staff[/COLOR] [/B] - This will display all staff for Toasty Networks.
+[B][COLOR=#ff0000]/list[/COLOR] [/B] - This will provide a list of all the players on the server and their ranks.
+[B][COLOR=#ff0000]/helpticket[/COLOR] [/B] - This will provide you with all the commands to use our ticket help system.
+[B][COLOR=#ff0000]/clearlag [/COLOR][/B] - This will remove all entities on the ground near you.
+[B][COLOR=#ff0000]/website[/COLOR] [/B] - This will bring you to our website where you can find out more information about us.
+[B][COLOR=#ff0000]/discord[/COLOR] [/B] - This will provide you with the link to join our discord server.
+[B][COLOR=#ff0000]/teamspeak[/COLOR][/B] - This will provide you with the IP to join our TeamSpeak.
+[B][COLOR=#ff0000]/buy[/COLOR][/B] - This will show content that you are able to buy from our donation store.[/FONT]
+
+[FONT=Trebuchet MS][SIZE=7][COLOR=#000000][B]Basics.[/B][/COLOR][/SIZE][/FONT]
+[FONT=Arial][B][COLOR=#ff8000]/rtp[/COLOR][/B] - This will teleport you to a random place in the wilderness.
+[B][COLOR=#ff8000]/spawn[/COLOR] [/B] - This will teleport you to spawn.
+[B][COLOR=#ff8000]/warp[/COLOR][/B] - This will show you a list of all the warps available. If you want to teleport to a warp do /warp (name). 
+[B][COLOR=#ff8000]/server[/COLOR][/B] - This will bring up a list of servers that you can connect to. To connect, use /server (name).
+[B][COLOR=#ff8000]/sethome (name)[/COLOR][/B] - This allows you to create a home so you can teleport back to this location easily.
+[B][COLOR=#ff8000]/home (name)[/COLOR][/B] - Use this command to teleport back to one of your homes.
+[B][COLOR=#ff8000]/delhome (name)[/COLOR] [/B] - This will remove the home that you have set previously.
+[COLOR=#ff8000][B]/seen (name) [/B][/COLOR] - This will show the last time a certain player was logged on.
+[B][COLOR=#ff8000]/howmuch [/COLOR]- Tekkit Legends[/B] - This will show you the minimum price for EMC items only. If the item does not have EMC, a price can be found by working out the values of the materials needed to craft the item.[/FONT]
+
+[FONT=Trebuchet MS][SIZE=7][COLOR=#000000][B]Claims.[/B][/COLOR][/SIZE][/FONT]
+[FONT=Arial][B][COLOR=#0059b3]/kit claim[/COLOR][/B] - This will give you a golden shovel and stick. Golden shovel can be used to claim land and a stick can be used to see what land is claimed.
+[B][COLOR=#0059b3]/buyclaimblocks[/COLOR][/B] - This will allow you to buy claim blocks with in-game money.
+[B][COLOR=#0059b3]/sellclaimblocks[/COLOR][/B] - This will allow you to sell claim blocks for in-game money.
+[B][COLOR=#0059b3]/transfer[/COLOR][/B] - This will allow you to transfer claim blocks to different servers (This does not work across modpacks).
+[B][COLOR=#0059b3]/abandonclaim[/COLOR][/B] - This will abandon the claim you are standing in at the time.
+[B][COLOR=#0059b3]/abandonallclaims[/COLOR][/B] - This will abandon all claims created.
+[B][COLOR=#0059b3]/subdivideclaim[/COLOR][/B] - This will allow you to subdivide your claim into smaller claims.
+[B][COLOR=#0059b3]/trust (player)[/COLOR][/B] - This will allow you to trust a player on the claim you are currently standing in.
+[B][COLOR=#0059b3]/untrust (player)[/COLOR][/B] - This will allow you to trust a player on the claim you are currently standing in.
+[B][COLOR=#0059b3]/trustlist[/COLOR][/B] - This will show you everyone trusted on your claim.
+[B][COLOR=#0059b3]/permissiontrust (player)[/COLOR][/B] - This will give the player trusted permissions to trust others on your claim.
+[B][COLOR=#0059b3]/claimlist[/COLOR][/B] - This will provide you with a list of your own claims as well as the amount of claim blocks you have left.[/FONT]
+
+[FONT=Trebuchet MS][SIZE=7][COLOR=#000000][B]Rewards, Votes and Money.[/B][/COLOR][/SIZE][/FONT]
+[FONT=Arial][B][COLOR=#00b359]/review[/COLOR][/B] - This will provide you with links where you can review the server for rewards. Once doing this, make sure you create a forum post using the template to receive these.
+[B][COLOR=#00b359]/vote[/COLOR][/B] - This will provide you with links where you can vote for the server and receive rewards!
+[B][COLOR=#00b359]/kit [/COLOR][/B]- Depending on your donator rank, you will be able to claim certain tier kits.
+[B][COLOR=#00b359]/jackpot[/COLOR][/B] - This will allow you to enter different jackpots depending on the amount of money you want to spend.
+[B][COLOR=#00b359]/dailybonus[/COLOR][/B] - This will give you a bonus for every day you log in (The higher the streak, the more rewards you can receive).
+[B][COLOR=#00b359]/balance[/COLOR][/B] - This will show you your in-game money balance.
+[B][COLOR=#00b359]/pay (player) (amount)[/COLOR][/B] - This will allow you to pay players on the server.[/FONT]
+
+[FONT=Trebuchet MS][SIZE=7][COLOR=#000000][B]Ranks and Playtime.[/B][/COLOR][/SIZE][/FONT]
+[FONT=Arial][B][COLOR=#5900b3]/ar gcheck[/COLOR][/B] - This shows playtime across all Toasty Networks servers.
+[B][COLOR=#5900b3]/ar check[/COLOR][/B] - This shows the playtime for the server you are currently on.
+[B][COLOR=#5900b3]/rankinfo[/COLOR][/B] - This shows the times needed for each rank on the server
+[B][COLOR=#5900b3]/rr[/COLOR][/B] - Once you rank up, you can claim rewards using /rr. You can also see other rank rewards by clicking on the different ranks.
+[COLOR=#5900b3][B]/tt list[/B][/COLOR] - This allows you to change your tag to any rank you have received in-game.[/FONT]
+
+[FONT=Trebuchet MS][SIZE=7][COLOR=#000000][B]Other Commands.[/B][/COLOR][/SIZE][/FONT]
+[FONT=Arial][B][COLOR=#000000]/customec[/COLOR][/B] - This is a virtual chest that players have access to.
+[B][COLOR=#000000]/tt top [/COLOR][/B] - This leader board shows the players with the most ranks on the server.
+[B][COLOR=#000000]/bal top[/COLOR][/B] - This leader board shows the players with the most in-game money on the server.
+[B][COLOR=#000000]/ar top[/COLOR][/B] - This leader board shows the players with the highest playtime on the server.[/FONT]
