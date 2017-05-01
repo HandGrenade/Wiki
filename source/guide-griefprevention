@@ -1,0 +1,76 @@
+[FONT=Arial]GriefPrevention Plus (Developed by [I]KaiNoMood[/I]) is the primary protection plugin used here at ToastyNetworks. If you wish to protect your land from others, you must claim the land through this plugin. This is an important aspect of network as it allows you to protect your items from other players, stopping griefing and loss of progress.[/FONT]
+
+
+[FONT=Trebuchet MS][SIZE=7][COLOR=#000000][B]Claim Information.[/B][/COLOR][/SIZE][/FONT]
+[FONT=Arial]As previously stated, claims are extremely important to have! Without them, any player is free to raid and grief your base as it is clearly stated in our 'Notes' section of our Rules. It states [I]"Damage which occurs outside of claims (wilderness) is not against the rules and will not be investigated by staff."[/I] Furthermore, as you will see within this guide, we provide many opportunities to expand your claim size and help you with creating them (like this guide!)
+
+When claiming land you must have a minimum of a 9x9 area of blocks selected. Anything less is too small and will not be accepted when attempting to claim. All claims go from Bedrock to Sky Limit (Y:0-256). 
+
+If, somehow, after reading this guide you are still unable to claim and protect your land, then please message a staff member and we will do our best to help you![/FONT]
+
+
+[FONT=Trebuchet MS][SIZE=7][B]Creating A Claim.[/B][/SIZE][/FONT]
+[FONT=Arial]This section is going to walk you through the steps necessary to simply create a claim for your base. There will be information further below in order to manage/expand your claim in the future.[/FONT]
+
+[FONT=Arial][LIST=1]
+[*]Have a base or area marked out for where you want it to be claimed. Placing a block at each corner of your desired claim usually helps with the process!
+[*]Use [B][FONT=Arial][COLOR=#ff0000]/kit claim[/COLOR] [/FONT][/B][FONT=Arial] to receive the basic tools needed to claim your land. You will get 3 items; the Golden Shovel is used to claim land, the Stick is used to show the boundary of a claim and a Chest holds its regular functions, storing items.[/FONT]
+[*]Place the Golden Shovel in your hand and find your way to one corner of your desired claim area. Then right click this corner and a Diamond Block should appear (This is only visual, do not bother trying to break it!)
+[*]Head over to the opposite corner of your desired claim. Do not unequip or click with the Golden Shovel during this time. Once you are at the opposite corner, right click the block. If done correctly, you should receive a message saying your claim has been created and there should be Gold and Glowstone Blocks around the boundary. If not, read chat and find out why it didn't work!
+[*]You can see the boundary of your claim at any time by right clicking with the Stick while standing inside your claim.
+[/LIST][/FONT]
+[FONT=Arial]The images for this guide can be found here:
+[SPOILER="Images"]
+[B]Step 1 -[/B]
+[IMG]http://i.imgur.com/kXZopTh.png[/IMG]
+
+[B]Step 2 -[/B]
+[IMG]http://i.imgur.com/ukj56Je.png[/IMG]
+
+[B]Step 3 - [/B]
+[IMG]http://i.imgur.com/0YXa5eC.png[/IMG]
+
+[B]Step 4 -[/B]
+[IMG]http://i.imgur.com/u7ZNChG.png[/IMG]
+
+[B]Step 5 -[/B]
+[IMG]http://i.imgur.com/Ey9CCJz.png[/IMG][/SPOILER][/FONT]
+
+[B][B][FONT=Trebuchet MS][SIZE=7]Claim Blocks.[/SIZE][/FONT][/B][/B]
+[FONT=Arial]In order to expand your claim you need to have the claim blocks to do so. Each block you claim counts for a single claim block, however it does not count the vertical blocks (Y:0-256). You are able to view your remaining claim blocks by holding the Golden Shovel and looking in chat.
+
+Gaining claim blocks is as simple as playing on the servers, voting and donating! For every hour you play you gain 100 claim blocks, as well as the hundreds you can obtain from crates or through the donation store. You can also spend in-game currency and buy them using the following commands:
+[/FONT]
+[B][FONT=Arial][COLOR=#ff0000]/buyclaimblocks[/COLOR][/FONT][/B]
+[FONT=Arial]This will allow you to buy claim blocks using your own in-game currency.
+[/FONT]
+[B][FONT=Arial][COLOR=#ff0000]/sellclaimblocks[/COLOR][/FONT][/B]
+[FONT=Arial]This will allow you to sell claim blocks using your own in-game currency.
+[/FONT]
+[B][FONT=Arial][COLOR=#ff0000]/transfer[/COLOR][/FONT][/B]
+[FONT=Arial]This will allow you to transfer claim blocks to a different server. This will not work across different modpacks and is only intended so players can use claim blocks in the mining world or other server on the same modpack.
+[/FONT]
+
+[B][FONT=Trebuchet MS][SIZE=7]Managing Your Claim.[/SIZE][/FONT][/B]
+[FONT=Arial][COLOR=#000000]Now that you've got a claim, you're going to need to manage it. This involves expanding, changing permissions, adding trusted players and much more! Here will be a list of commands associated with managing your claim, how to use them and what they do.
+[/COLOR]
+[COLOR=#ff0000][B]/abandonclaim [/B][/COLOR]
+This will abandon the claim you are standing in at the time of execution. Make sure you are certain you want to unclaim the land before using this command![/FONT]
+[B][FONT=Arial]
+[COLOR=#ff0000]/abandonallclaims[/COLOR][/FONT][/B]
+[FONT=Arial]This is similar to the command above, however it will instead abandon all claims you own. Be very careful when using this command!
+[/FONT]
+[B][FONT=Arial][COLOR=#ff0000]/trust <player>[/COLOR][/FONT][/B]
+[FONT=Arial]This command will allow the specified player access to your claim. This means they can build and break blocks, access chests and much more. Be very careful when using this command, because if a trusted player griefs you it is not against the rules and you will not be refunded or get a rollback. 
+[/FONT]
+[B][FONT=Arial][COLOR=#ff0000]/untrust <player>[/COLOR][/FONT][/B]
+[FONT=Arial]This is basically the opposite of the above command. This will untrust the specified player, meaning they will no longer have access to your claim if they were previously trusted.
+[/FONT]
+[B][FONT=Arial][COLOR=#ff0000]/trustlist[/COLOR][/FONT][/B]
+[FONT=Arial]This will simply show you a list of who you currently have trusted to access your claims.
+[/FONT]
+[B][FONT=Arial][COLOR=#ff0000]/permissiontrust <player>[/COLOR][/FONT][/B]
+[FONT=Arial]This command will allow the specified player to trust [I]other[/I] players into your claim. It highly recommended not to use this command unless you are absolutely certain the person is trustworthy with access to these permissions!
+[/FONT]
+[B][FONT=Arial][COLOR=#ff0000]/claimlist[/COLOR][/FONT][/B]
+[FONT=Arial]This will provide you with a list of all your current claims, their location and how many remaining claim blocks you have.[/FONT]
